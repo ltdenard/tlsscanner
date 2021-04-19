@@ -1,0 +1,7 @@
+boto3==1.16.28
+eventlet==0.29.1
+pyOpenSSL==20.0.0
+requests==2.25.0
+validators==0.18.1
+wafw00f==2.1.0
+xmltodict==0.12.0

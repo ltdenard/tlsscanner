@@ -1,0 +1,4 @@
+boto3==1.16.17
+validators==0.18.1
+s3transfer==0.3.3
+xmltodict==0.12.0

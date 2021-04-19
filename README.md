@@ -1,0 +1,2 @@
+# What is TLS Scanner?
+this project is designed to use AWS's lambda and S3 services to scan sites in mass for cipher and certificate issues in mass for little money. It's developed into two parts. The lambda api is for sending jobs. The API then sends the job to another lambda to run the actual scan and store the results in S3. It then hands back a uuid to search for in the S3 bucket for results. 
